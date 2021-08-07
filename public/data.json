@@ -1,0 +1,92 @@
+{
+    "specializations": [
+        "60f18fc3a00ca26984e649f6"
+    ],
+    "gender": "MALE",
+    "consultationFeeCurrency": "INR",
+    "firstName": "John",
+    "lastName": "Doe",
+    "practicingFrom": "1995-12-17",
+    "imageUrl": "https://www.filmibeat.com/img/2018/06/rku3-1529659059.jpg",
+    "description": "Dr. Murali Prasad Sharma is a General Surgeon currently associated with Greenview Medical Center, Bangalore. Having completed his MBBS and MS in General Surgery from reputed colleges of the country, Dr. Abdul Razack has successfully performed several general surgeries like breast surgery, thyroid surgery and liver resection to name a few. With a special interest in endoscopy and laparoscopic surgery, he has also performed several other procedures, including appendectomy, biopsy, cholecystectomy, gastric bypass, melanoma, and catheter placement. Being a dedicated doctor and an avid learner, Dr. Abdul Razack regularly attends many local and state-wide conferences to learn about the latest developments in his field of practice",
+    "qualifications": [
+        {
+            "name": "M.B.B.S",
+            "instituteName": "ABC",
+            "procurementYear": "1997"
+        },
+        {
+            "name": "M.S - General Surgery",
+            "instituteName": "ABC",
+            "procurementYear": "2002"
+        }
+    ],
+    "consultationFee": 500,
+    "services": [
+        {
+            "name": "Consultation"
+        }
+    ],
+    "reviews": [
+        {
+            "clientId": "client_id",
+            "isAnonymous": true,
+            "rating": "5.0",
+            "review": "Good",
+            "isDoctorRecommended": true,
+            "date": "2019-12-17"
+        }
+    ],
+    "experience": [
+        {
+            "hospitalName": "Metro General",
+            "yearsWorked": 5,
+            "role": "Specialist"
+        }
+    ],
+    "availableSlots": [
+        {
+            "date": "2021-12-17",
+            "time": [
+                {
+                    "startTime": "9:30",
+                    "endTime": "10:00"
+                },
+                {
+                    "startTime": "10:30",
+                    "endTime": "11:00"
+                },
+                {
+                    "startTime": "11:00",
+                    "endTime": "11:30"
+                }
+            ],
+            "status": "available"
+        },
+        {
+            "date": "2021-12-18",
+            "time": [
+                {
+                    "startTime": "9:30",
+                    "endTime": "10:00"
+                },
+                {
+                    "startTime": "10:00",
+                    "endTime": "10:30"
+                }
+            ],
+            "status": "available"
+        },
+        {
+            "date": "2021-12-19",
+            "time": [
+                {
+                    "startTime": "9:30",
+                    "endTime": "10:00"
+                }
+            ],
+            "status": "available"
+        }
+    ],
+    "__v": 0
+}

@@ -1,0 +1,141 @@
+{
+    "doctorsInfo": {
+        "doctorsImageURL": "https://www.filmibeat.com/img/2018/06/rku3-1529659059.jpg",
+        "name": "Murali Prasad Sharma",
+        "qualifications": "MBBS, MS - General Surgery",
+        "experienceInYears": "18",
+        "description": "Dr. Murali Prasad Sharma is a General Surgeon currently associated with Greenview Medical Center, Bangalore. Having completed his MBBS and MS in General Surgery from reputed colleges of the country, Dr. Abdul Razack has successfully performed several general surgeries like breast surgery, thyroid surgery and liver resection to name a few. With a special interest in endoscopy and laparoscopic surgery, he has also performed several other procedures, including appendectomy, biopsy, cholecystectomy, gastric bypass, melanoma, and catheter placement. Being a dedicated doctor and an avid learner, Dr. Abdul Razack regularly attends many local and state-wide conferences to learn about the latest developments in his field of practice"
+    },
+    "doctorInfoValue": [
+        {
+            "_id": "60f1c06eafbb9191e87c796e",
+            "heading": "Services",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "_id": "60f1c074334d2e6efb291daa",
+            "heading": "Specializations",
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem"
+        },
+        {
+            "_id": "60f1c07ae66d1f4e3c81f8d6",
+            "heading": "Education",
+            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio"
+        },
+        {
+            "_id": "60f1c08472b71049bd4dbb21",
+            "heading": "Experience",
+            "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
+        }
+    ],
+    "slotInfo": [
+        {
+            "date": "July 12, Monday",
+            "slots": [
+                "08:30 AM - 09:00 AM",
+                "09:00 AM - 09:30 AM",
+                "09:30 AM - 10:00 AM"
+            ]
+        },
+        {
+            "date": "July 13, Tuesday",
+            "slots": [
+                "08:30 AM - 09:00 AM",
+                "09:00 AM - 09:30 AM",
+                "09:30 AM - 10:00 AM",
+                "10:00 AM - 10:30 AM",
+                "11:00 AM - 11:30 AM",
+                "11:30 AM - 12:00 PM"
+            ]
+        },
+        {
+            "date": "July 14, Wednesday",
+            "slots": [
+                "08:30 AM - 09:00 AM",
+                "09:00 AM - 09:30 AM",
+                "09:30 AM - 10:00 AM",
+                "10:30 AM - 11:00 AM"
+            ]
+        },
+        {
+            "date": "July 15, Thursday",
+            "slots": [
+                "08:30 AM - 09:00 AM",
+                "09:00 AM - 09:30 AM",
+                "09:30 AM - 10:00 AM",
+                "10:00 AM - 10:30 AM",
+                "10:30 AM - 11:00 AM"
+            ]
+        },
+        {
+            "date": "July 16, Friday",
+            "slots": [
+                "08:30 AM - 09:00 AM",
+                "09:00 AM - 09:30 AM",
+                "09:30 AM - 10:00 AM"
+            ]
+        },
+        {
+            "date": "July 17, Saturday",
+            "slots": [
+                "08:30 AM - 09:00 AM",
+                "09:00 AM - 09:30 AM",
+                "09:30 AM - 10:00 AM",
+                "10:00 AM - 10:30 AM",
+                "10:30 AM - 11:00 AM",
+                "11:00 AM - 11:30 AM",
+                "11:30 AM - 12:00 PM",
+                "12:00 PM - 12:30 PM",
+                "12:30 PM - 01:00 PM"
+            ]
+        },
+        {
+            "date": "July 18, Sunday",
+            "slots": [
+                "08:30 AM - 09:00 AM",
+                "09:00 AM - 09:30 AM",
+                "09:30 AM - 10:00 AM",
+                "10:00 AM - 10:30 AM",
+                "10:30 AM - 11:00 AM"
+            ]
+        }
+    ],
+    "appointments": [
+        {
+            "doctor": {
+                "name": "Manish Sharma",
+                "profileUrl": "https://www.filmibeat.com/img/2018/06/rku3-1529659059.jpg"
+            },
+            "date": "July 25, 2021",
+            "time": "09:00 AM",
+            "status": "Pending"
+        },
+        {
+            "doctor": {
+                "name": "George Becker",
+                "profileUrl": "https://www.filmibeat.com/img/2018/06/rku3-1529659059.jpg"
+            },
+            "date": "July 13, 2021",
+            "time": "09:00 AM",
+            "status": "Completed"
+        },
+        {
+            "doctor": {
+                "name": "John Ward",
+                "profileUrl": "https://www.filmibeat.com/img/2018/06/rku3-1529659059.jpg"
+            },
+            "date": "July 12, 2021",
+            "time": "09:00 AM",
+            "status": "Completed"
+        },
+        {
+            "doctor": {
+                "name": "Liz White",
+                "profileUrl": "https://www.filmibeat.com/img/2018/06/rku3-1529659059.jpg"
+            },
+            "date": "July 15, 2021",
+            "time": "09:00 AM",
+            "status": "Completed"
+        }
+    ]
+}

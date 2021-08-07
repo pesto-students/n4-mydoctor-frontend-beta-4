@@ -1,0 +1,128 @@
+{
+	"dashboard": {
+		"book_appointment": "BOOK APPOINTMENT"
+	},
+	"doctors_appointment": {
+		"years_of_experience": "Years of Experience",
+		"doctor_salutation": "Dr.",
+		"login_message": "Please %s / %s to book an appointment.",
+		"sign_in": "Sign in",
+		"register": "Register"
+	},
+	"consultationChat": {
+		"doctorSalutation": "Dr.",
+		"self": "Self"
+	},
+	"myAppointments": {
+		"not_started": "Not Started",
+		"in_progress": "In Progress",
+		"completed": "Completed",
+		"doctorSalutation": "Dr.",
+		"labelDate": "Date",
+		"labelTiming": "Timing",
+		"labelStatus": "Status",
+		"labelPatient": "Patient",
+		"self": "Self"
+	},
+	"loginPage": {
+		"forgot": "Forgot Password?",
+		"login": "Login",
+		"already_have_an_account": "Already have an account? ",
+		"Register": "Register here",
+		"register": "Register",
+		"signIn": "Sign in",
+		"signup_success": "Signed up successfully!",
+		"signup_fail": "Something went wrong while sign up!",
+		"login_success": "You are now logged in!",
+		"login_fail": "Mobile Number/Email or password is incorrect. Please try again.",
+		"invalid_fullname": "Please enter a valid name!",
+		"invalid_mobile": "Please enter a valid 10-digit mobile number!",
+		"invalid_email": "Please enter a valid e-mail address!",
+		"empty_password": "Password cannot be empty!",
+		"pwd_rule_upper": "Must contain uppercase letter.",
+		"pwd_rule_lower": "Must contain lowercase letter.",
+		"pwd_rule_digit": "Must contain at least one number.",
+		"pwd_rule_length": "Must contain at least %d characters.",
+		"pwd_rule_special": "Must contain at least one special character.",
+		"pwd_rule_match": "Passwords must match."
+	},
+	"patient": {
+		"head": "Patient Details",
+		"label": "The appointment is for:",
+		"username": "Myself",
+		"user_number": "9899898989",
+		"Othernumber": "9999999999",
+		"user_fees": "500",
+		"otherUser": "Someone Else",
+		"the_patient": "the patient",
+		"info": "Please provide the following information about ",
+		"label_patientname": "Patient Name :",
+		"label_Mobilenumber": "Mobile Number :",
+		"label_otherNumber": "Patient's Mobile number:",
+		"label_fee": "Fee : ",
+		"confirm_and_pay": "Confirm and Pay",
+		"appointment_success": "Appointment is booked successfully!",
+		"appointment_fail": "Failed to book appointment. Please try again!",
+		"invalid_otherName": "Please enter a valid patient name!",
+		"invalid_otherMobileNumber": "Please enter a valid 10-digit mobile number!"
+	},
+	"signup": [
+		{
+			"field_id": "1",
+			"field_label": "Full Name",
+			"field_mandatory": "yes",
+			"field_placeholder": "Enter name",
+			"field_type": "text",
+			"field_value": ""
+		},
+		{
+			"field_id": "2",
+			"field_label": "Mobile Number",
+			"field_mandatory": "yes",
+			"field_placeholder": "XXXX-XXX-XXX",
+			"field_type": "number",
+			"field_value": ""
+		},
+		{
+			"field_id": "3",
+			"field_label": "Email",
+			"field_mandatory": "yes",
+			"field_placeholder": "abc@gmail.com",
+			"field_type": "email",
+			"field_value": ""
+		},
+		{
+			"field_id": "4",
+			"field_label": "Create Password",
+			"field_mandatory": "yes",
+			"field_placeholder": "create password",
+			"field_type": "password",
+			"field_value": ""
+		},
+		{
+			"field_id": "5",
+			"field_label": "Confirm Password",
+			"field_mandatory": "yes",
+			"field_placeholder": "confirm password",
+			"field_type": "password",
+			"field_value": ""
+		}
+	],
+	"loginMap": [
+		{
+			"data_id": "1",
+			"data_label": "Mobile Number/Email ID",
+			"data_mandatory": "yes",
+			"data_placeholder": "Enter Mobile Number/Email",
+			"data_type": "text",
+			"data_value": ""
+		},
+		{
+			"data_id": "2",
+			"data_label": "Password",
+			"data_mandatory": "yes",
+			"data_placeholder": "Enter Password",
+			"data_type": "password"
+		}
+	]
+}

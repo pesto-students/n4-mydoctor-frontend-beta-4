@@ -1,0 +1,36 @@
+.paperStyle {
+	padding: 30px 20px;
+}
+.paperStylelogin {
+	padding: 30px 20px;
+}
+.paperStyle2 {
+	width: auto;
+	margin: 20px auto;
+}
+.widthch {
+	width: 250px;
+}
+.label {
+	font-size: 14px;
+	font-weight: 500;
+	color: grey;
+}
+
+.headerStyle {
+	color: grey;
+	font-size: 24px;
+}
+.stylesPro {
+	font-size: 12px;
+	color: grey;
+}
+.signin {
+	cursor: pointer;
+}
+#signup {
+	margin-left: 55%;
+}
+.MuiOutlinedInput-input{
+	padding: 8px !important;
+}
